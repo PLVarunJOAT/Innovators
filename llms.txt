@@ -1,0 +1,11 @@
+# Nov8rs (Innovators)
+
+> Nov8rs (pronounced “innovators”) is a digital marketing agency in the USA for local and service businesses. Services: web development, GAS-EO (its own method combining SEO, answer engine optimization and generative engine optimization), paid media (Google, Microsoft, Meta, LinkedIn ads), the Nov8rs AI CRM, and white label services for agencies.
+
+- [Home](https://nov8rs.com/): what Nov8rs does, who it helps and common questions
+- [GAS-EO / SEO](https://nov8rs.com/seo-services): getting found on Google, Google Maps and AI tools like ChatGPT
+- [Ads](https://nov8rs.com/paid-media-agency): paid media, PPC and performance marketing
+- [Websites](https://nov8rs.com/web-development): web development services, landing pages and funnels
+- [AI CRM](https://nov8rs.com/ai-crm): missed call text back, AI assistant, booking and review requests
+- [White label](https://nov8rs.com/white-label): white label SEO, PPC, web design and social media for agencies
+- [Instant quote](https://nov8rs-quote-with-faq.vercel.app/): pick services and see pricing
